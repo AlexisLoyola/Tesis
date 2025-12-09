@@ -1,3 +1,5 @@
+API backend automatizada que permite generar esquemas visuales e ilustraciones estilizadas de técnicas de artes marciales a partir de imágenes reales.  
+
 Para ejecutar correctamente la API localmente, es necesario tener instalado {Python 3.10.6}, y luego preparar el entorno de trabajo con las siguientes consideraciones, que se detallan a continuación:  
   1. Descarga del Repositorio  
        Descargar el repositorio que se encuentra en GitHub, posteriormente abrir el centro de comandos (CMD) e ingresar a la carpeta del proyecto con el comando: "cd Tesis"  
