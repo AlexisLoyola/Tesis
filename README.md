@@ -3,7 +3,7 @@ Para ejecutar correctamente la API localmente, es necesario tener instalado {Pyt
        Descargar el repositorio que se encuentra en GitHub, posteriormente abrir el centro de comandos (CMD) e ingresar a la carpeta del proyecto con el comando: "cd Tesis"  
 
   2. Instalación de Dependencias  
-       Dentro del repositorio se encuentra un archivo \texttt{requirements.txt} con todas las bibliotecas necesarias para ejecutar el sistema. Para instalarlas, se ejecuta: "pip install -r requirements.txt"  
+       Dentro del repositorio se encuentra un archivo "requirements.txt" con todas las bibliotecas necesarias para ejecutar el sistema. Para instalarlas, se ejecuta: "pip install -r requirements.txt"  
        Al finalizar la instalación ingresa el comando: "pip freeze"  
        Al ejecutar este comando, se deberían visualizar todas las librerías recién instaladas  
 
